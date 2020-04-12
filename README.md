@@ -1,4 +1,4 @@
-# Vue-Fire
+# Vue-Fire Walki Talkie taught by Jeff fireship.io
 
 ## Project setup
 ```
