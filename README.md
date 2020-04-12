@@ -1,5 +1,7 @@
 # Vue-Fire Walki Talkie taught by Jeff fireship.io
 
+## live https://vue-fire-96ec3.web.app/#/
+
 ## Project setup
 ```
 npm install
